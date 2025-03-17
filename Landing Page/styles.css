@@ -1,0 +1,644 @@
+.landing-page {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .landing-page .div {
+    background-color: #ffffff;
+    overflow: hidden;
+    width: 1440px;
+    height: 3589px;
+    position: relative;
+  }
+  
+  .landing-page .overlap {
+    position: absolute;
+    width: 1440px;
+    height: 900px;
+    top: 0;
+    left: 0;
+    background-image: url(https://c.animaapp.com/m8by74fvOyFnDM/img/mask-group.png);
+    background-size: 100% 100%;
+  }
+  
+  .landing-page .all-the-information {
+    position: absolute;
+    top: 208px;
+    left: 431px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 400;
+    color: transparent;
+    font-size: 43.5px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 43.5px;
+  }
+  
+  .landing-page .text-wrapper {
+    color: #ffffff;
+    line-height: 0.1px;
+  }
+  
+  .landing-page .span {
+    font-family: "Prata", Helvetica;
+    color: #f5b400;
+    font-size: 82.5px;
+    line-height: 99px;
+  }
+  
+  .landing-page .overlap-group {
+    position: absolute;
+    width: 204px;
+    height: 68px;
+    top: 492px;
+    left: 618px;
+    background-color: #f5b400;
+    border-radius: 33.75px;
+  }
+  
+  .landing-page .text-wrapper-2 {
+    position: absolute;
+    top: 24px;
+    left: 50px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: 18px;
+    white-space: nowrap;
+  }
+  
+  .landing-page .group {
+    width: 1440px;
+    height: 130px;
+    top: 1px;
+    position: absolute;
+    left: 0;
+  }
+  
+  .landing-page .logo {
+    height: 49px;
+    top: 39px;
+    position: absolute;
+    width: 252px;
+    left: 139px;
+    overflow: hidden;
+  }
+  
+  .landing-page .layer {
+    position: relative;
+    height: 49px;
+  }
+  
+  .landing-page .vector {
+    position: absolute;
+    width: 25px;
+    height: 47px;
+    top: 1px;
+    left: 227px;
+  }
+  
+  .landing-page .img {
+    position: absolute;
+    width: 25px;
+    height: 47px;
+    top: 1px;
+    left: 55px;
+  }
+  
+  .landing-page .vector-2 {
+    position: absolute;
+    width: 27px;
+    height: 47px;
+    top: 1px;
+    left: 27px;
+  }
+  
+  .landing-page .overlap-group-2 {
+    position: absolute;
+    width: 119px;
+    height: 49px;
+    top: 0;
+    left: 106px;
+  }
+  
+  .landing-page .vector-3 {
+    position: absolute;
+    width: 26px;
+    height: 47px;
+    top: 1px;
+    left: 93px;
+  }
+  
+  .landing-page .vector-4 {
+    position: absolute;
+    width: 27px;
+    height: 47px;
+    top: 1px;
+    left: 0;
+  }
+  
+  .landing-page .vector-5 {
+    position: absolute;
+    width: 78px;
+    height: 49px;
+    top: 0;
+    left: 21px;
+  }
+  
+  .landing-page .vector-6 {
+    position: absolute;
+    width: 23px;
+    height: 47px;
+    top: 1px;
+    left: 82px;
+  }
+  
+  .landing-page .group-2 {
+    position: absolute;
+    width: 25px;
+    height: 47px;
+    top: 1px;
+    left: 0;
+  }
+  
+  .landing-page .navbar {
+    display: inline-flex;
+    height: 50px;
+    align-items: center;
+    gap: 74px;
+    padding: 8px 42px;
+    position: absolute;
+    top: 39px;
+    left: 535px;
+    background-color: #f7f7f7;
+    border-radius: 25px;
+  }
+  
+  .landing-page .rectangle {
+    position: absolute;
+    width: 128px;
+    height: 40px;
+    top: 5px;
+    left: 5px;
+    background-color: #ffffff;
+    border-radius: 30px;
+    box-shadow: 0px 0px 3px #0000001a;
+  }
+  
+  .landing-page .text-wrapper-3 {
+    position: relative;
+    width: fit-content;
+    font-family: "Poppins", Helvetica;
+    font-weight: 400;
+    color: #f5b400;
+    font-size: 18px;
+    text-align: right;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-page .text-wrapper-4 {
+    position: relative;
+    width: fit-content;
+    font-family: "Poppins", Helvetica;
+    font-weight: 400;
+    color: #505050;
+    font-size: 18px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-page .group-wrapper {
+    position: absolute;
+    width: 341px;
+    height: 44px;
+    top: -215px;
+    left: 467px;
+    background-size: 100% 100%;
+  }
+  
+  .landing-page .group-3 {
+    width: 341px;
+    height: 44px;
+    top: 0;
+    position: absolute;
+    left: 0;
+  }
+  
+  .landing-page .overlap-wrapper {
+    position: absolute;
+    width: 1442px;
+    height: 130px;
+    top: 3459px;
+    left: 0;
+  }
+  
+  .landing-page .overlap-2 {
+    position: relative;
+    width: 1440px;
+    height: 130px;
+    background-color: #676f5d;
+  }
+  
+  .landing-page .layer-wrapper {
+    height: 50px;
+    top: 30px;
+    position: absolute;
+    width: 252px;
+    left: 139px;
+    overflow: hidden;
+  }
+  
+  .landing-page .layer-2 {
+    position: relative;
+    height: 50px;
+  }
+  
+  .landing-page .vector-7 {
+    position: absolute;
+    width: 27px;
+    height: 48px;
+    top: 1px;
+    left: 27px;
+  }
+  
+  .landing-page .overlap-group-3 {
+    position: absolute;
+    width: 119px;
+    height: 50px;
+    top: 0;
+    left: 106px;
+  }
+  
+  .landing-page .vector-8 {
+    position: absolute;
+    width: 26px;
+    height: 48px;
+    top: 1px;
+    left: 93px;
+  }
+  
+  .landing-page .vector-9 {
+    position: absolute;
+    width: 27px;
+    height: 48px;
+    top: 1px;
+    left: 0;
+  }
+  
+  .landing-page .vector-10 {
+    position: absolute;
+    width: 78px;
+    height: 50px;
+    top: 0;
+    left: 21px;
+  }
+  
+  .landing-page .group-4 {
+    width: 25px;
+    height: 48px;
+    top: 1px;
+    position: absolute;
+    left: 0;
+  }
+  
+  .landing-page .p {
+    position: absolute;
+    width: 512px;
+    top: 30px;
+    left: 415px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 400;
+    color: #d6ddeb;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 25.6px;
+  }
+  
+  .landing-page .frame {
+    top: 1075px;
+    left: 116px;
+    background-image: url(https://c.animaapp.com/m8by74fvOyFnDM/img/frame-11.png);
+    position: absolute;
+    width: 540px;
+    height: 414px;
+    border-radius: 16px;
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+  .landing-page .frame-2 {
+    top: 1515px;
+    left: 784px;
+    background-image: url(https://c.animaapp.com/m8by74fvOyFnDM/img/frame-13.png);
+    position: absolute;
+    width: 540px;
+    height: 414px;
+    border-radius: 16px;
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+  .landing-page .frame-3 {
+    top: 2395px;
+    left: 784px;
+    background-image: url(https://c.animaapp.com/m8by74fvOyFnDM/img/frame-17.png);
+    position: absolute;
+    width: 540px;
+    height: 414px;
+    border-radius: 16px;
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+  .landing-page .frame-4 {
+    top: 1955px;
+    left: 116px;
+    background-image: url(https://c.animaapp.com/m8by74fvOyFnDM/img/frame-15.png);
+    position: absolute;
+    width: 540px;
+    height: 414px;
+    border-radius: 16px;
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+  .landing-page .text-wrapper-5 {
+    position: absolute;
+    top: 1136px;
+    left: 732px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 500;
+    color: #f5b400;
+    font-size: 31.2px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-page .text-wrapper-6 {
+    top: 1616px;
+    left: 116px;
+    position: absolute;
+    font-family: "Poppins", Helvetica;
+    font-weight: 500;
+    color: #f5b400;
+    font-size: 31.2px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-page .text-wrapper-7 {
+    top: 2496px;
+    left: 116px;
+    position: absolute;
+    font-family: "Poppins", Helvetica;
+    font-weight: 500;
+    color: #f5b400;
+    font-size: 31.2px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-page .text-wrapper-8 {
+    top: 2056px;
+    left: 732px;
+    position: absolute;
+    font-family: "Poppins", Helvetica;
+    font-weight: 500;
+    color: #f5b400;
+    font-size: 31.2px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-page .text-wrapper-9 {
+    position: absolute;
+    width: 571px;
+    top: 1242px;
+    left: 732px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 500;
+    color: #00000080;
+    font-size: 17.5px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-page .text-wrapper-10 {
+    top: 1722px;
+    left: 116px;
+    position: absolute;
+    width: 571px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 500;
+    color: #00000080;
+    font-size: 17.5px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-page .text-wrapper-11 {
+    top: 2602px;
+    left: 116px;
+    position: absolute;
+    width: 571px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 500;
+    color: #00000080;
+    font-size: 17.5px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-page .text-wrapper-12 {
+    top: 2162px;
+    left: 732px;
+    position: absolute;
+    width: 571px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 500;
+    color: #00000080;
+    font-size: 17.5px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-page .text-wrapper-13 {
+    position: absolute;
+    top: 1195px;
+    left: 732px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 500;
+    color: #000000cf;
+    font-size: 23.4px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-page .text-wrapper-14 {
+    position: absolute;
+    top: 1675px;
+    left: 116px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 500;
+    color: #000000cf;
+    font-size: 23.4px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-page .text-wrapper-15 {
+    position: absolute;
+    top: 2555px;
+    left: 116px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 500;
+    color: #000000cf;
+    font-size: 23.4px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-page .text-wrapper-16 {
+    position: absolute;
+    top: 2115px;
+    left: 732px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 500;
+    color: #000000cf;
+    font-size: 23.4px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-page .overlap-3 {
+    position: absolute;
+    width: 1307px;
+    height: 265px;
+    top: 3064px;
+    left: 17px;
+  }
+  
+  .landing-page .box-color {
+    position: absolute;
+    width: 637px;
+    height: 199px;
+    top: 0;
+    left: 0;
+    background-color: #fef1ff;
+  }
+  
+  .landing-page .frame-5 {
+    position: absolute;
+    width: 170px;
+    height: 156px;
+    top: 2px;
+    left: 1136px;
+  }
+  
+  .landing-page .profile-card {
+    position: absolute;
+    width: 770px;
+    height: 210px;
+    top: 55px;
+    left: 467px;
+    background-color: #ffffff;
+    border-radius: 18.9px;
+    overflow: hidden;
+    box-shadow: 0px 3.89px 19.47px #13173d1a;
+  }
+  
+  .landing-page .ci-double-quotes-l {
+    top: 0;
+    left: 38px;
+    position: absolute;
+    width: 68px;
+    height: 68px;
+  }
+  
+  .landing-page .ci-double-quotes-r {
+    top: 141px;
+    left: 648px;
+    position: absolute;
+    width: 68px;
+    height: 68px;
+  }
+  
+  .landing-page .is-simply-dummy-text {
+    position: absolute;
+    width: 508px;
+    top: 83px;
+    left: 130px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 400;
+    color: #00000080;
+    font-size: 13.6px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-page .text-wrapper-17 {
+    position: absolute;
+    top: 155px;
+    left: 350px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 15.6px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-page .text-wrapper-18 {
+    position: absolute;
+    top: 180px;
+    left: 287px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 400;
+    color: #00000080;
+    font-size: 12.7px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-page .ellipse {
+    position: absolute;
+    width: 97px;
+    height: 97px;
+    top: 13px;
+    left: 793px;
+    object-fit: cover;
+  }
+  
+  .landing-page .text-wrapper-19 {
+    position: absolute;
+    top: 2947px;
+    left: 666px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 500;
+    color: #fbc027;
+    font-size: 15.6px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-page .text-wrapper-20 {
+    position: absolute;
+    top: 2970px;
+    left: 588px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 500;
+    color: #000000cf;
+    font-size: 31.2px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
